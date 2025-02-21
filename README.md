@@ -1,5 +1,5 @@
 # Difference-Arrays-ArrayLists
-Explains the difference between Array and Arraylist in Java and gives examples
+//Explains the difference between Array and Arraylist in Java and gives examples
 import java.util.ArrayList;
 import java.util.Arrays;
 
